@@ -28,7 +28,7 @@ dir="/mnt/scratch/smbpk/Pea_aphid"
 #Location of raw data
 rawdir="/mnt/scratch/smbpk/Pea_aphid/fastq_files"
 
-
+#folder where you wish trimed files to be saved
 trimdir="/mnt/scratch/smbpk/Pea_aphid/trim_fastq"
 
 #Step 1 - transfer and rename raw data files.  This may need to be editted to merge any files that are associated with the same condition.
